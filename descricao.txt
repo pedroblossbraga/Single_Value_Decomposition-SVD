@@ -1,0 +1,1 @@
+O código "ep4.py" contém os testes para a implementação do SVD, e o código "EP final MAP2210.ipynb" contém, em especial, implementações para as aplicações dos algoritmos.
