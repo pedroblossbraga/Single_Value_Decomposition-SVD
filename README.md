@@ -1,6 +1,7 @@
 # Single_Value_Decomposition-SVD
 Redução de Dimensionalidade com Decomposição de Valores Singulares, relações com PCA, eigenfaces, Clusterização, etc, etc
 
+OBS: Sugestão, ler o texto via pdf "SVD_PCA.pdf" (README.md não aceita sintaxe LaTeX)
 ## Decomposição de valores singulares
 
 ![](/images/im1.png)
